@@ -1,5 +1,5 @@
 # Introduction to Version control
-![GIT](images/0.jpeg)
+![GIT](images/0.JPEG)
 
 ## What is version control and why is it needed
 
@@ -13,7 +13,7 @@ __Version control is necessary to:__
 
 __The control system__ is an implemented possibility of replacing information using saved versions.
 
-![GIT](images/1.jpg)
+![GIT](images/1.JPG)
 
 ## Git is a version control program
 
@@ -37,14 +37,14 @@ There are two ways to work with Git:
 
 ## Differentiation of the concepts of Git and GitHub
 
-![GIT](images/3.jpg)
+![GIT](images/3.JPG)
 
 * Master working with remote repositories that are located not on a local, but on a remote machine, for example, on a server.
 * git is one of the version control systems
 * Method of organizing and maintaining versioning
 * The most popular version control system
 
-![GIT](images/4.png)
+![GIT](images/4.PNG)
 
 * Microsoft service for organizing remote repositories
 * The most popular Git service
@@ -53,7 +53,7 @@ There are two ways to work with Git:
 
 ## Basic commands git
 
-![GIT](images/2.jpg)
+![GIT](images/2.JPG)
 
 * **git init** – initialization of the local repository
 
